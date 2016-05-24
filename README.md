@@ -1,7 +1,5 @@
-# ac-android-curriculum
-Access Code Android Curriculum
+# Access Code Curriculum: Android
 
+The Android curriculum!
 
-#ac-basis-java
-Below is the link for basic Java. It will become a sub module of this repo later this week.
-https://github.com/C4Q/Access-Code-Basic-Java
+*Currently a work-in-progress!* Please see https://github.com/C4Q/ac-curriculum-web for an example of what AC curriculums can/will look like
