@@ -7,3 +7,6 @@ Below is the link for basic Java. It will become a sub module of this repo later
 https://github.com/C4Q/Access-Code-Basic-Java
 # AndroidCurriculum
 Android Curriculum
+
+Course Overview: By the end of this course, students with be able to…
+
