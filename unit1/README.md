@@ -1,5 +1,14 @@
 # Unit 1: Intro to Programming 
 
+### Week 1
+
+1. Git & GitHub: 2 days
+  - Command Line Git: clone, commit, pull, push
+  - Branching and merging
+  - GitHub pull request UX, how to converse on a PR
+  - **Learning outcome**: Put simple personal site on GitHub, push to GitHub pages using GitBot.co
+  - **Learning outcome**: Can talk shop about PRs, commits, branches, and sound informed in an interview setting
+
 1. Basics of Programming with Java
    - IDE vs Terminal(#)
    - Hello World! - Compiling and Printing(#)
@@ -30,6 +39,10 @@
    - Running java code from IDE and Terminal
    - FizzBuzz
    - Review of list/array and runtime analysis of operations to these structures
+
+### Week 2
+### Week 3
+### Week 4
 
 
 ### Homework
