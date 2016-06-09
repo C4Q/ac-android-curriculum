@@ -11,7 +11,7 @@
 
 1. Basics of Programming with Java
    - IDE vs Terminal(#)
-   - Hello World! - [Compiling and Printing](https://github.com/accesscode-2-1/unit-0/blob/master/lessons/week-0/2015-03-01_intro-compiling-printing.md)
+   - Hello World! - [Compiling and Printing](https://github.com/C4Q/ac-curriculum-android/blob/master/unit1/intro-compiling-printing.md)
    - Variables & Types(#)
    - Boolean expressions - Input & Conditional (If)
    - While loops and For Loops
