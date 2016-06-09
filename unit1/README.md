@@ -2,7 +2,7 @@
 
 ### Week 1
 
-1. Git & GitHub: 2 days
+1. Git & GitHub: 2 days (link to WEB lesson plan?)
   - Command Line Git: clone, commit, pull, push
   - Branching and merging
   - GitHub pull request UX, how to converse on a PR
@@ -12,8 +12,8 @@
 1. Basics of Programming with Java
    - IDE vs Terminal(#)
    - Hello World! - [Compiling and Printing](https://github.com/C4Q/ac-curriculum-android/blob/master/unit1/intro-compiling-printing.md)
-   - Variables & Types(#)
-   - Boolean expressions - Input & Conditional (If)
+   - [Variables & Types](https://github.com/C4Q/ac-curriculum-android/blob/master/unit1/variables-type-strings.md)
+   - [Input & Conditionals (and Boolean Expressions)](https://github.com/C4Q/ac-curriculum-android/blob/master/unit1/input-and-conditions.md)
    - While loops and For Loops
    - Methods
    Learning Outcome: Install Java Runtime environment and SDk. Read System input, and write conditional logic.
