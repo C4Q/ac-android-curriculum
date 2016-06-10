@@ -33,23 +33,24 @@
   - POJO’s
   - **Learning outcome**: Understand how to make classes and OOP basics.
 
-3. Methods and Problem Solving
-   - Pseudocode!
-   - Loops & String Methods (Review)
-   - Whiteboarding practice
-   - Big O runtime analysis
-   - Methods and refactoring
-   Learning Outcome: Basic problem-solving flow going from understanding the prompt, generating pseudocode, and converting to code.
- 
-
-4) Review 
-   - Running java code from IDE and Terminal
-   - FizzBuzz
-   - Review of list/array and runtime analysis of operations to these structures
-
 
 ### Week 3
+
+- Methods and Problem Solving
+  - Pseudocode!
+  - Loops & String Methods (Review)
+  - Whiteboarding practice
+  - Big O runtime analysis
+  - Methods and refactoring
+  Learning Outcome: Basic problem-solving flow going from understanding the prompt, generating pseudocode, and converting to code.
+
+
 ### Week 4
+
+- Review 
+  - Running java code from IDE and Terminal
+  - FizzBuzz
+  - Review of list/array and runtime analysis of operations to these structures
 
 
 ### Homework
