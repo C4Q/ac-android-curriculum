@@ -2,29 +2,36 @@
 
 ### Week 1
 
-1. Git & GitHub: 2 days (link to WEB lesson plan?)
+- Git & GitHub: 2 days (link to WEB lesson plan?)
   - Command Line Git: clone, commit, pull, push
   - Branching and merging
   - GitHub pull request UX, how to converse on a PR
   - **Learning outcome**: Put simple personal site on GitHub, push to GitHub pages using GitBot.co
   - **Learning outcome**: Can talk shop about PRs, commits, branches, and sound informed in an interview setting
 
-1. Basics of Programming with Java
-   - IDE vs Terminal(#)
-   - Hello World! - [Compiling and Printing](https://github.com/C4Q/ac-curriculum-android/blob/master/unit1/intro-compiling-printing.md)
-   - [Variables & Types](https://github.com/C4Q/ac-curriculum-android/blob/master/unit1/variables-type-strings.md)
-   - [Input & Conditionals (and Boolean Expressions)](https://github.com/C4Q/ac-curriculum-android/blob/master/unit1/input-and-conditions.md)
-   - While loops and For Loops
-   - Methods
-   Learning Outcome: Install Java Runtime environment and SDk. Read System input, and write conditional logic.
+- Basics of Programming with Java
+  - IDE vs Terminal(#)
+  - Hello World! - [Compiling and Printing](https://github.com/C4Q/ac-curriculum-android/blob/master/unit1/intro-compiling-printing.md)
+  - [Variables & Types](https://github.com/C4Q/ac-curriculum-android/blob/master/unit1/variables-type-strings.md)
+  - [Input & Conditionals (and Boolean Expressions)](https://github.com/C4Q/ac-curriculum-android/blob/master/unit1/input-and-conditions.md)
+  - **Learning outcome**: Install Java Runtime environment and SDk. Read System input, and write conditional logic.
 
-2. Classes and Objects
-   - List vs Array vs Set(#)
-   - HashMap(#)
-   - POJO’s
-   - Inheritance and Polymorphism
-   - Member variables and methods 
-   Learning Outcome: Understand how to make classes and OOP basics. m
+
+### Week 2
+
+- [Loops and Boolean Expressions](https://github.com/C4Q/ac-curriculum-android/blob/master/unit1/booleans-and-loops.md): 1 Day
+  - Traditional for, foreach, and while loops
+  - How to think about the body of a loop as a "for each element"
+  - **Learning outcome**: Able to print out interesting math sequences backwards and forwards using loops
+- ArrayList: 1 Days
+  - NOTE: There are three days of ArrayList from last year
+- Classes and Objects: 3 Days
+  - Methods, fields, and constructors
+  - public, private, protected modifiers
+  - static vs instance methods & fields
+  - Inheritance and Polymorphism
+  - POJO’s
+  - **Learning outcome**: Understand how to make classes and OOP basics.
 
 3. Methods and Problem Solving
    - Pseudocode!
@@ -40,7 +47,7 @@
    - FizzBuzz
    - Review of list/array and runtime analysis of operations to these structures
 
-### Week 2
+
 ### Week 3
 ### Week 4
 
